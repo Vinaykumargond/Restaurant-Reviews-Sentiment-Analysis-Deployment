@@ -10,6 +10,3 @@ Deployed at: _https://restaurants-review-sentiment.herokuapp.com/_
 Link: _https://github.com/Vinaykumargond/Restaurant-Reviews-Sentiment-Analysis-Deployment_
 
 • Please do ⭐ the repository, if it helped you in anyway.
-
-• A glimpse of the web app:
-
